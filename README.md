@@ -186,7 +186,18 @@
 
 </details>
 
+## 课程配套实验
+  - [【实验1】使用大语言模型生成工作文本](https://developer.aliyun.com/adc/scenario/6bdc0fd31ad946d0a9478fcfc9c374f8?spm=5176.10731460.0.0.7cbe3d4boUYHdo)
+  - [【实验2】使用大语言模型生成文本摘要](https://developer.aliyun.com/adc/scenario/57f252773c5c4890b1eedc3b870cf95d?spm=5176.10731460.0.0.7cbe3d4boUYHdo)
+  - [【实验3】使用大语言模型分析数据与图表](https://developer.aliyun.com/adc/scenario/bca5940e40f9444eaa775f1acee59b9d?spm=5176.10731460.0.0.7cbe3d4boUYHdo)
+  - [【实验4】搭建一个知识问答机器人](https://developer.aliyun.com/adc/scenario/e54e49aac176485cb0446e53c454c7a4?spm=5176.10731460.0.0.7cbe3d4boUYHdo)
 
+
+## 补充内容
+
+**大模型微调：**
+1. [【大模型微调02】—— 后训练之大模型微调（Fine Tuning）详解：SFT、FFT核心流程及常见微调方法详解](https://blog.csdn.net/Lvyizhuo/article/details/160408713)
+2. [【大模型微调03】—— 后训练之偏好对齐训练（Preference Alignment）详解：RELF、DPO、KTO核心原理与使用](https://blog.csdn.net/Lvyizhuo/article/details/160408900?spm=1001.2014.3001.5501)
 
 
 
@@ -196,9 +207,9 @@
 
 ## 📚 参考资源
 
-- **官方课程** - [阿里云大模型工程师 ACA 认证课程](https://edu.aliyun.com/certification/aca13?spm=5176.38069147.J_HzKgVczpY3grCE0p2ViJx.10.3d0b33efC9r2H7)
-- **文档资料** - 课程实验、案例示例和最佳实践
-- **学习笔记** - 个人整理、复习总结和知识延伸
+- **官方课程** ： [阿里云大模型工程师 ACA 认证课程](https://edu.aliyun.com/certification/aca13?spm=5176.38069147.J_HzKgVczpY3grCE0p2ViJx.10.3d0b33efC9r2H7)
+
+- **学习笔记** ：[个人整理、复习总结和知识延伸](https://blog.csdn.net/Lvyizhuo?type=blog)
 
 ## License
 

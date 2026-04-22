@@ -182,15 +182,30 @@ Click the chapter tabs below to view complete notes:
 
 </details>
 
+## Course Experiments
+  - [【Experiment 1】Using LLMs to Generate Work Text](https://developer.aliyun.com/adc/scenario/6bdc0fd31ad946d0a9478fcfc9c374f8?spm=5176.10731460.0.0.7cbe3d4boUYHdo)
+  - [【Experiment 2】Using LLMs to Generate Text Summaries](https://developer.aliyun.com/adc/scenario/57f252773c5c4890b1eedc3b870cf95d?spm=5176.10731460.0.0.7cbe3d4boUYHdo)
+  - [【Experiment 3】Using LLMs to Analyze Data and Charts](https://developer.aliyun.com/adc/scenario/bca5940e40f9444eaa775f1acee59b9d?spm=5176.10731460.0.0.7cbe3d4boUYHdo)
+  - [【Experiment 4】Building a Knowledge Q&A Bot](https://developer.aliyun.com/adc/scenario/e54e49aac176485cb0446e53c454c7a4?spm=5176.10731460.0.0.7cbe3d4boUYHdo)
+
+
+## Supplementary Content
+
+**LLM Fine-tuning:**
+1. [【Fine-tuning 02】— Post-training LLM Fine Tuning Explained: SFT, FFT Core Processes and Common Fine-tuning Methods](https://blog.csdn.net/Lvyizhuo/article/details/160408713)
+2. [【Fine-tuning 03】— Post-training Preference Alignment Explained: RELF, DPO, KTO Core Principles and Usage](https://blog.csdn.net/Lvyizhuo/article/details/160408900?spm=1001.2014.3001.5501)
+
+
+
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Lvyizhuo/Alibaba-ACACertification-LLM&type=Date)](https://star-history.com/#Lvyizhuo/Alibaba-ACACertification-LLM&Date)
 
 ## 📚 Reference Resources
 
-- **Official Course** - [Alibaba Cloud LLM Engineer ACA Certification Program](https://edu.aliyun.com/certification/aca13?spm=5176.38069147.J_HzKgVczpY3grCE0p2ViJx.10.3d0b33efC9r2H7)
-- **Documentation** - Course experiments, case studies, and best practices
-- **Study Notes** - Personal organization, review summaries, and knowledge extensions
+- **Official Course**: [Alibaba Cloud LLM Engineer ACA Certification Program](https://edu.aliyun.com/certification/aca13?spm=5176.38069147.J_HzKgVczpY3grCE0p2ViJx.10.3d0b33efC9r2H7)
+
+- **Study Notes**: [Personal organization, review summaries, and knowledge extensions](https://blog.csdn.net/Lvyizhuo?type=blog)
 
 ## License
 
