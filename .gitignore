@@ -13,7 +13,3 @@ Thumbs.db
 *.swp
 *.swo
 
-# 忽略截图/临时生成文件（可选）
-*.png
-*.jpg
-*.jpeg
