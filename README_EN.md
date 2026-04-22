@@ -41,70 +41,70 @@ Click the chapter tabs below to jump quickly:
 <details>
   <summary>Chapter 01 - Understanding LLMs</summary>
 
-- [LLM Fundamentals](./00-思维导图/【01-认识大模型】——%20大模型基础.md)
+- [LLM Fundamentals](./00-思维导图/【01-认识大模型】——%20大模型基础.md) | [Image Preview](./01-笔记/images/【01-认识大模型】——%20大模型基础.png) | [HTML Preview](./00-思维导图/【01-认识大模型】——%20大模型基础.html)
 
 </details>
 
 <details>
   <summary>Chapter 02 - LLM Application Scenarios</summary>
 
-- [Typical LLM Application Scenarios](./00-思维导图/【02-大模型应用场景】——%20大模型的典型应用场景.md)
+- [Typical LLM Application Scenarios](./00-思维导图/【02-大模型应用场景】——%20大模型的典型应用场景.md) | [Image Preview](./01-笔记/images/【02-大模型应用场景】——%20大模型的典型应用场景.png) | [HTML Preview](./00-思维导图/【02-大模型应用场景】——%20大模型的典型应用场景.html)
 
 </details>
 
 <details>
   <summary>Chapter 03 - API Usage</summary>
 
-- [Automating Tasks with APIs](./00-思维导图/【03-API的使用】——%20借助API让大模型自动化的处理任务.md)
+- [Automating Tasks with APIs](./00-思维导图/【03-API的使用】——%20借助API让大模型自动化的处理任务.md) | [Image Preview](./01-笔记/images/【03-API的使用】——%20借助API让大模型自动化的处理任务.png) | [HTML Preview](./00-思维导图/【03-API的使用】——%20借助API让大模型自动化的处理任务.html)
 
 </details>
 
 <details>
   <summary>Chapter 04 - Prompt Engineering</summary>
 
-- [Optimizing Response Quality with Prompts](./00-思维导图/【04-提示词工程】——%20使用提示词优化回答质量.md)
+- [Optimizing Response Quality with Prompts](./00-思维导图/【04-提示词工程】——%20使用提示词优化回答质量.md) | [Image Preview](./01-笔记/images/【04-提示词工程】——%20使用提示词优化回答质量.png) | [HTML Preview](./00-思维导图/【04-提示词工程】——%20使用提示词优化回答质量.html)
 
 </details>
 
 <details>
   <summary>Chapter 05 - Tool Calling</summary>
 
-- [Enhancing LLM Capabilities with Plugin Tools](./00-思维导图/【05-工具调用】——%20使用插件工具增强大模型的能力.md)
+- [Enhancing LLM Capabilities with Plugin Tools](./00-思维导图/【05-工具调用】——%20使用插件工具增强大模型的能力.md) | [Image Preview](./01-笔记/images/【05-工具调用】——%20使用插件工具增强大模型的能力.png) | [HTML Preview](./00-思维导图/【05-工具调用】——%20使用插件工具增强大模型的能力.html)
 
 </details>
 
 <details>
   <summary>Chapter 06 - RAG Knowledge Base</summary>
 
-- [RAG-Enhanced Retrieval and Generation](./00-思维导图/【06-RAG知识库】——%20通过RAG知识库检索增强生成.md)
+- [RAG-Enhanced Retrieval and Generation](./00-思维导图/【06-RAG知识库】——%20通过RAG知识库检索增强生成.md) | [Image Preview](./01-笔记/images/【06-RAG知识库】——%20通过RAG知识库检索增强生成.png) | [HTML Preview](./00-思维导图/【06-RAG知识库】——%20通过RAG知识库检索增强生成.html)
 
 </details>
 
 <details>
   <summary>Chapter 07 - Model Fine-tuning</summary>
 
-- [Fine-tuning to Improve Vertical Domain Performance](./00-思维导图/【07-大模型微调】——%20通过微调改善大模型在垂直领域的表现.md)
+- [Fine-tuning to Improve Vertical Domain Performance](./00-思维导图/【07-大模型微调】——%20通过微调改善大模型在垂直领域的表现.md) | [Image Preview](./01-笔记/images/【07-大模型微调】——%20通过微调改善大模型在垂直领域的表现.png) | [HTML Preview](./00-思维导图/【07-大模型微调】——%20通过微调改善大模型在垂直领域的表现.html)
 
 </details>
 
 <details>
   <summary>Chapter 08 - Agent</summary>
 
-- [Using Agents for LLM Thinking, Decision-Making, and Task Execution](./00-思维导图/【08-Agent】——%20借助Agent让大模型应用思考、决策并执行任务.md)
+- [Using Agents for LLM Thinking, Decision-Making, and Task Execution](./00-思维导图/【08-Agent】——%20借助Agent让大模型应用思考、决策并执行任务.md) | [Image Preview](./01-笔记/images/【08-Agent】——%20借助Agent让大模型应用思考、决策并执行任务.png) | [HTML Preview](./00-思维导图/【08-Agent】——%20借助Agent让大模型应用思考、决策并执行任务.html)
 
 </details>
 
 <details>
   <summary>Chapter 09 - Application Security</summary>
 
-- [LLM Application Security and Compliance](./00-思维导图/【09-应用安全】——%20大模型应用的安全合规.md)
+- [LLM Application Security and Compliance](./00-思维导图/【09-应用安全】——%20大模型应用的安全合规.md) | [Image Preview](./01-笔记/images/【09-应用安全】——%20大模型应用的安全合规.png) | [HTML Preview](./00-思维导图/【09-应用安全】——%20大模型应用的安全合规.html)
 
 </details>
 
 <details>
   <summary>Chapter 10 - Extended Learning</summary>
 
-- [Multi-modal LLMs, MoE Mixed Expert Models, Cloud-Edge Collaboration](./00-思维导图/【10-多模态大模型】——%20多模态大模型、MoE混合专家模型、大小模型云端协同.md)
+- [Multi-modal LLMs, MoE Mixed Expert Models, Cloud-Edge Collaboration](./00-思维导图/【10-多模态大模型】——%20多模态大模型、MoE混合专家模型、大小模型云端协同.md) | [Image Preview](./01-笔记/images/【10-多模态大模型】——%20多模态大模型、MoE混合专家模型、大小模型云端协同.png) | [HTML Preview](./00-思维导图/【10-多模态大模型】——%20多模态大模型、MoE混合专家模型、大小模型云端协同.html)
 
 </details>
 
