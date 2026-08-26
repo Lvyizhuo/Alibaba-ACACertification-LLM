@@ -198,8 +198,13 @@ Click the chapter tabs below to view complete notes:
 
 
 ## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Lvyizhuo/Alibaba-ACACertification-LLM&type=Date)](https://star-history.com/#Lvyizhuo/Alibaba-ACACertification-LLM&Date)
+<a href="https://www.star-history.com/?repos=Lvyizhuo%2FAlibaba-ACACertification-LLM&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Lvyizhuo/Alibaba-ACACertification-LLM&type=date&theme=dark&legend=top-left&sealed_token=-VjujDvkUcqAF2XcTPf_T6ag-T8veWQ8tBtm-17uyRtrlrrVxFmGl1MSm8DpDJ_XsXjMbaitoKmIChz6sAsRA27wnXrva2_spmf0kgIQGpYcKPYKJ2hqLQ" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Lvyizhuo/Alibaba-ACACertification-LLM&type=date&legend=top-left&sealed_token=-VjujDvkUcqAF2XcTPf_T6ag-T8veWQ8tBtm-17uyRtrlrrVxFmGl1MSm8DpDJ_XsXjMbaitoKmIChz6sAsRA27wnXrva2_spmf0kgIQGpYcKPYKJ2hqLQ" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Lvyizhuo/Alibaba-ACACertification-LLM&type=date&legend=top-left&sealed_token=-VjujDvkUcqAF2XcTPf_T6ag-T8veWQ8tBtm-17uyRtrlrrVxFmGl1MSm8DpDJ_XsXjMbaitoKmIChz6sAsRA27wnXrva2_spmf0kgIQGpYcKPYKJ2hqLQ" />
+ </picture>
+</a>
 
 ## 📚 Reference Resources
 
